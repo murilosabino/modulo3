@@ -35,7 +35,7 @@ public class TarefaDois {
             break;
 
             default:
-            System.out.println("Digite uma opção válida!");
+            System.out.println("Digite uma opção válida!\nObrigado por usar o menu.");
             break;
         }
         }
